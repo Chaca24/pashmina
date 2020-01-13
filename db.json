@@ -1,0 +1,41 @@
+{
+  "pashmina": [
+    {
+      "id": 1,
+      "title": "Polos untuk Lebaran",
+      "subjudul":"Hijup",
+      "gambar":"http://d3t543lkaz1xy.cloudfront.net/photo/59eda51b617583711cd5987e_m",
+      "kategori":"pashmina",
+      "langkah":[
+        "1. Bentangkan hijab polos sesuai keinginan sejajar bahu.",
+        "2. Letakan hijab di atas kepala dengan memegang bagian kanan dan kiri.",
+        "3. Tarik bagian kanan dan selipkan ke bahu kiri hingga berputar ke bagian kanan.",
+        "4. Sematkan pentul di bagian kiri hijab kemudian rapikan."
+        ]
+    },
+    {
+      "id": 2,
+      "title": "Pashmina Jepit",
+      "subjudul":"Rachel Venya",
+      "gambar":"https://cdn.popmama.com/content-images/post/20190806/ps1-2b739b363435645e643289765dc92083.jpg",
+      "kategori":"pashmina",
+      "langkah":[
+        "1. Kenakan inner ninja untuk menutupi bagian leher mu.",
+        "2. Lalu sematkan pashmina dengan panjang kedua sisi yang sama tanpa memerlukan peniti atau jarum pentul.",
+        "3. Untuk mempercantik penampilan mu, kamu bisa kenakan anting sebagai hiasan tambahan."
+        ]
+    },
+    {
+      "id": 3,
+      "title": "Pashmina Simple Syar’i Menutup Dada",
+      "subjudul":"Hijup",
+      "gambar":"https://i2.wp.com/alvindayu.com/wp-content/uploads/2019/07/Tutorial-Hijab-Pashmina-Simple-Syari-Menutup-Dada.jpg?resize=1024%2C529&ssl=1",
+      "kategori":"pashmina",
+      "langkah":[
+        "1. Buat Salah Satu Sisi Hijab Lebih Panjang",
+        "2. Ambil Sisi Bawah Hijab yang Paling Panjang",
+        "3. Bawa Sisi Hijab Ke Belakang Hingga Kembali ke Depan"
+        ]
+    }
+  ]
+}
