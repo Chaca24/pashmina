@@ -36,6 +36,82 @@
         "2. Ambil Sisi Bawah Hijab yang Paling Panjang",
         "3. Bawa Sisi Hijab Ke Belakang Hingga Kembali ke Depan"
         ]
+    },
+    {
+      "id": 4,
+      "title": "Pashmina Simple",
+      "subjudul":"HIjabgamismukena",
+      "gambar":"https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/17/977492/content_images/670x335/20180517162130-4-tutorial-cara-memakai-hijab-pashmina-001-tantri-setyorini.jpg",
+      "kategori":"pashmina",
+      "langkah":[
+        "1. Setelah memakai inner, pasang pashmina di kepala dengan bagian kanan lebih panjang. Bagian kiri cukup sepanjang dada atas. Sematkan tepi kain sebelah kiri ke bawah telinga kanan",
+        "2. Rapikan kerudung, kemudian tarik kain yang ada di sebelah kanan ke belakang pundak kiri",
+        "3. Tarik terus sampai kembali ke pundak kanan. Biarkan terjuntai dan rapikan dengan tangan"
+        ]
+    },
+    {
+      "id": 5,
+      "title": "Pashmina Aksen Ikat",
+      "subjudul":"Wolipop",
+      "gambar":"https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/17/977492/content_images/670x335/20180518114601-5-cara-memakai-jilbab-pashmina-dengan-aksen-ikat-001-tantri-setyorini.jpg",
+      "kategori":"pashmina",
+      "langkah":[
+        "1. Ambil pashmina panjang yang agak tipis dan lentur. Lipat sisi atasnya ke bagian dalam. Kerudungkan di kepala dengan sisi kanan lebih pendek dari sisi kiri",
+        "2. Rapikan pashmina agar tepiannya tidak mengerut. Sematkan jarum pentul di bagian bawah leher",
+        "3. Ambil sisi pashmina yang panjang, bawa ke atas kepala dengan memutari sisi yang pendek. Setelah itu sematkan jarum pentul di bagian samping kepala",
+        "4. Ambil sisi panjang pashmina, kemudian bawa ke depan dagu. Sematkan kembali jarum pentul di bagian bawah dagu agar jilbab terlihat rapi",
+        "5. Bawa sisi panjang pashmina ke bagian kanan, letakkan di bawah sisi yang pendek. Ikat bagian yang panjang dan sisi kiri menjadi satu simpul yang rapi, kemudian sematkan dengan jarum pentul di bagian bahu"
+        ]
+    },
+    {
+      "id": 6,
+      "title": "Pashmina Menutup Dada",
+      "subjudul":"Lara Hijab",
+      "gambar":"https://larahijab.com/wp-content/uploads/2019/01/Cara-memakai-hijab-pashmina-simple-4.jpg",
+      "kategori":"pashmina",
+      "langkah":[
+        "1. Ambil kedua sisi dengan panjang yang sama dan jangan lupa pinnya",
+        "2. Kemudian tarik sisi kanan dan pasang jarumnya ke belakang kepala",
+        "3. Begitu juga sisi kirinya jangan lupa pasang jarum lagi"
+        ]
+    },
+    {
+      "id": 7,
+      "title": "Pashmina Stylish",
+      "subjudul":"Lara Hijab",
+      "gambar":"https://larahijab.com/wp-content/uploads/2019/01/Cara-memakai-hijab-pashmina-simple-style-2-9.jpg",
+      "kategori":"pashmina",
+      "langkah":[
+        "1. Ambil satu sisi pendek dan satu sisi panjang, kemudian sematkan jarum di dagu",
+        "2. Letakkan sisi pendek ke belakang, kemudian tarik sisi panjang ke atas dan sematkan jarum",
+        "3. Untuk sisi panjang ambil sisi belakangnya, kemudian tarik ke atas kepala dan sematkan jarum"
+        ]
+    },
+    {
+      "id": 8,
+      "title": "Pashmina Simple Manis",
+      "subjudul":"Lara Hijab",
+      "gambar":"https://larahijab.com/wp-content/uploads/2019/01/Cara-memakai-hijab-pashmina-trendy-simple-style-4-5.jpg",
+      "kategori":"pashmina",
+      "langkah":[
+        "1. Ambil dua sisi pashmina ukhti sama panjang lalu kita rapikan dulu lalu kita lipat kemudian kita tarik ke atas dan pasang peniti",
+        "2. Setelah kita menaruh jarum kita tarik lagi ke belakang dan memutar kembali ke depan kita kemudian setelah kita menariknya ke depan pasang jarumnya lagi",
+        "3. Jadi itu sudah menutupi dada kemudian, daripada bagian tengah menggantung kita langsung menariknya lagi lalu jangan lupa taruh jarum lagi"
+        ]
+    },
+    {
+      "id": 9,
+      "title": "Pashmina Diamond",
+      "subjudul":"tutorialhijab_",
+      "gambar":"https://webicdn.com/sdirmember/10/9929/produk/5rsft.png",
+      "kategori":"pashmina",
+      "langkah":[
+        "1. Letakkan pashmina di kepala satu bagian panjang satu bagian pendek",
+        "2. ambil bagian yg panjang dan sematkan di inner hijab bagian samping di atas telinga",
+        "3. Beri jarum juga pada bagian luarnya seperti pada gambar",
+        "4. Tarik bagian pendek dan masukkan ke arah dalam bagian yg panjang dan tarik ke bagian atas",
+        "5. Bawa ke atas dan akhirnya sampai ke samping dan diberi jarum, Bagian pendek yg tersisa tadi di bentuk dan dilipat ke arah luar dan di beri pentul dibahu"
+        ]
     }
   ]
 }
